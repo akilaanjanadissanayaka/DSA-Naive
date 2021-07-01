@@ -1,0 +1,4 @@
+***Test case 1***
+Pattern found at line - 1  index - 0
+Pattern found at line - 1  index - 8
+Pattern found at line - 2  index - 3
